@@ -2,7 +2,7 @@
 let sunHeight = 600;
 let horizon = 360;
 
-// Colors for sunrise
+
 let greenVal = 0;
 let redVal = 0;
 
